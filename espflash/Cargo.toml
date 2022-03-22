@@ -28,7 +28,7 @@ bytemuck = { version = "1.7", features = ["derive"] }
 indicatif = "0.16"
 md5 = "0.7"
 clap = { version = "3.0", features = ["derive"] }
-serialport = "4.0"
+serialport = "=4.0.2-alpha.0"
 sha2 = "0.10"
 slip-codec = "0.3"
 thiserror = "1.0"
